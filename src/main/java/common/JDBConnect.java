@@ -10,6 +10,7 @@ import javax.servlet.ServletContext;
 
 public class JDBConnect {
 	
+	
 	//JDBC를 위한 멤버변수 선언(연결, 쿼리실행, 결과값반환)
 	public Connection con;
 	public Statement stmt;
